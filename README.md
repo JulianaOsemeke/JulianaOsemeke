@@ -4,7 +4,8 @@ Hi, I'm Juliana :smiley: :wave:
 
 I transitioned from finance and I am a presently a trainee full stack software developer @microverseinc. I am passionate about collaborating with devs globally. With a flare for creative writing, I intend to transfer this skill to technical writing. Technologies I am passionate about include Bootstrap and Tailwind CSS.
 
-You Can find me on:
+You Can Find Me on:
+
 -https://twitter.com/julianaosemeke
 
 -https://ng.linkedin.com/in/juliana-osemeke
