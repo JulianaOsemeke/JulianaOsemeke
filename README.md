@@ -6,4 +6,5 @@ I transitioned from finance and I am a presently a trainee full stack software d
 
 You Can find me on:
 -https://twitter.com/julianaosemeke
+
 -https://ng.linkedin.com/in/juliana-osemeke
