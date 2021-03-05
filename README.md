@@ -1,6 +1,6 @@
 Hi, I'm Juliana :smiley: :wave:
 
-![Alt text] (https://github.com/[JulianaOsemeke]/[NewRepo]/blob/[master]/image.https://github.com/JulianaOsemeke/NewRepo/blob/master/images/Pink%20and%20Purple%20College%20Professor%20Minimalist%20Linkedin%20Banner.png)
+![alt text] (https://github.com/[JulianaOsemeke]/[NewRepo]/blob/[master]/image.https://github.com/JulianaOsemeke/NewRepo/blob/master/images/Pink%20and%20Purple%20College%20Professor%20Minimalist%20Linkedin%20Banner.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
